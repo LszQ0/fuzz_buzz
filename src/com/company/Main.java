@@ -21,7 +21,7 @@ public class Main {
 
 
         }
-
+        System.out.println("Thank you for checking my program");
 
     }
 }
